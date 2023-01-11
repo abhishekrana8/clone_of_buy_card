@@ -1,0 +1,39 @@
+img{
+  
+    height: 200px;
+    width: 350px;
+    border-radius:25px ;
+    padding-top: 10px;
+    margin-left: 25px;
+   
+}
+.boxi{
+    border: 1px solid black;
+    height: 400px;
+    width: 400px;
+    border-radius: 15px;
+    background-image: linear-gradient(white,rgb(219, 219, 227));
+}
+hr{
+    
+}
+
+.price{
+    padding-left: 10px;
+     color: blue;
+     
+}
+.off{
+
+    color: white;
+    background-color: rgb(109, 184, 109);
+    border: 1px solid black;
+    padding: 5px;
+}
+h2{
+    text-align: center;
+}
+#stri{
+    color: grey;
+    padding: 15px;
+}
